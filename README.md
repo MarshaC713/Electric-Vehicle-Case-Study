@@ -1,1 +1,2 @@
 # Electric-Vehicle-Case-Study
+My final project for the Avado FastFutures Advanced Data Analysis Skills Bootcamp. In this project I have used a range of advanced data and statistical analysis and data visualisations (Stacked barcharts, line plots/ graph, heatmaps, boxplot and pair plot diagrams) using Python and appropriate libraries (such as, Pandas, NumPy, Seaborn, matplotlib, plotly.graph_objects and plotly.express) to demonstrate my learning and knowledge in these areas.
